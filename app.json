@@ -9,10 +9,10 @@
   "homepage": "https://github.com/ajayyearup/sfdx-heroku#readme",
   "buildpacks": [
     {
-      "url": "https://github.com/ajayyearup/salesforce-cli-buildpack#v3"
+      "url": "https://github.com/heroku/salesforce-cli-buildpack#v3"
     },
     {
-      "url": "https://github.com/ajayyearup/salesforce-buildpack"
+      "url": "https://github.com/heroku/salesforce-buildpack#v2"
     }
   ],
   "env": {
