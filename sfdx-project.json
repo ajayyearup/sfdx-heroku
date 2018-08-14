@@ -5,15 +5,10 @@
     "packageDirectories": [
       {
          "path": "force-app",
-         "default": true,
-         "package": "yearupPackage",
-         "versionName": "1.0.0",
-         "versionDescription": "Welcome to Yearup",
-         "versionNumber": "4.7.0.NEXT",
-         "definitionFile": "config/project-scratch-def.json"
+		 "default": true,
+		 "id": "0Ho0b000000000LCAQ",
+		 "versionNumber": "1.0.0.NEXT",
+		 "versionName": "Summer '18"
       }      
-   ],
-   "packageAliases": [
-      { "yearupPackage": "0Ho0b000000000LCAQ" }
    ]
 }
