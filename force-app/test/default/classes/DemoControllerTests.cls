@@ -1,4 +1,6 @@
 
+/* This is a test class for controller class
+*/
 @isTest
 private class DemoControllerTests {
     @isTest static void testGetAppVersion() {
