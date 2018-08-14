@@ -5,10 +5,10 @@
     "packageDirectories": [
       {
          "path": "force-app",
-		 "default": true,
-		 "id": "0Ho0b000000000LCAQ",
-		 "versionNumber": "1.0.0.NEXT",
-		 "versionName": "Summer '18"
+	 "default": true,
+	 "id": "0Ho0b000000000LCAQ",
+	 "versionNumber": "1.0.0.NEXT",
+	 "versionName": "Summer '18"
       }      
    ]
 }
