@@ -1,11 +1,19 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true
-        }
-    ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0"
+	"packageDirectories": [
+      {
+         "path": "force-app",
+         "default": true,
+         "package": "yearupPackage",
+         "versionName": "1.0.0",
+         "versionDescription": "Welcome to Yearup",
+         "versionNumber": "4.7.0.NEXT",
+         "definitionFile": "config/project-scratch-def.json"
+      }      
+   ],
+   "packageAliases": [
+      { "yearupPackage": "0Ho0b000000000LCAQ" }
+   ]
 }
