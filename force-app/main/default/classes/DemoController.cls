@@ -1,5 +1,5 @@
 public with sharing class DemoController {
-    private static final String APP_VERSION ='2.5.0';
+    private static final String APP_VERSION ='4.5.0';
     /**
      * An empty constructor for the testing
      */
